@@ -51,3 +51,10 @@ p{
 a{
     font-weight: 900;
 }
+
+.pet{
+display: block;
+margin: auto;
+font-size: helvetica;
+font-size: 20px;
+}
